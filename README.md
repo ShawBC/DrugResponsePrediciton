@@ -1,4 +1,4 @@
-# Predictive Modeling for Drug Response in Cancer Cells 🧬💊
+# Predictive Modelling for Drug Response in Cancer Cells 🧬💊
 
 
 I'm trying to delve deep into the world of cancer genomics and explore the potential of AI in medicine. 
@@ -27,8 +27,8 @@ Hope you enjoy, if you have any feedback or questions then please reach out to m
 
 ## Features
 - **Data Analysis**: Comprehensive analysis of GDSC along with data exploration and cleaning if need be.
-- **Modeling**: Using Python, Scikit-learn, and TensorFlow to build predictive models.
-- **Visualization**: Interactive dashboards built with Gradio and Streamlit for real-time predictions and accessibility.
+- **Modelling**: Using Python, Scikit-learn, and TensorFlow to build predictive models.
+- **Visualisation**: Interactive dashboards built with Gradio and Streamlit for real-time predictions and accessibility.
 - **Testing**: Unit tests to ensure model robustness, accuracy and data consistency.
 
 ## Getting Started
